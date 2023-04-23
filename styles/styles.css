@@ -1,0 +1,35 @@
+/*This is a comment
+This page affects text that is on the travel page*/
+p{
+    font-weight: bold;
+    font: size 50px;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+.emphasizedText{
+    font-style: italic;
+    color: rgb(50,15,90)
+    
+}
+a:visited{
+    color: green
+}
+
+body{
+    background-color: rgba(51, 0, 255, 0.562);
+    color: white;
+    font-family: 'Gil Sans', 'Gill Sans MT', Calibri, 'Trebuchet', sans-serif;
+    border: 5 px solid rgb(66, 194, 37);
+    padding: 20 px;
+    margin: 20 px;
+    text-align: center;
+}
+ol{
+    list-style-position: inside;
+}
+ul{
+    list-style-position: inside;
+}

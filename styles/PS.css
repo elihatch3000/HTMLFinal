@@ -1,0 +1,37 @@
+ul{
+    color:red;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.first{
+    font-size: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+
+}
+.second{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+    font-style: italic;
+}
+.third{
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+}
+
+body{
+    background-color:beige;
+}
+
+.video-container iframe{
+    position: relative;
+    border: 3px solid #333;
+
+}
+
+.anchors{
+    color:black;
+    font-style:italic;
+
+}
